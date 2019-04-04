@@ -9,7 +9,7 @@ import java.io.*;
 
 /**
  *
- * @author Алексей
+ * @author Алексей бла бла
  */
 public class CreateNewFile {
 
